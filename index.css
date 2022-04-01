@@ -1,0 +1,32 @@
+.keys{
+    display: flex;
+    justify-content: space-between;
+    width: 80vw;
+    margin-left: 10vw;
+    
+
+}
+.key{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 150px;
+    background-color: rgba(238, 136, 136, 0.863);
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+.keyPlay{
+    transform: scale(1.1);
+    box-shadow: 0 0 2rem rgb(255, 0, 0);
+}
+h1{
+text-align: center;
+background-color: rgb(131, 131, 209);
+
+}
+body{
+    background-image: url('https://thumbs.dreamstime.com/b/seamless-music-background-cute-notes-light-eps-funny-wallpaper-chaotic-musical-theme-template-packaging-cover-187292972.jpg');
+}
