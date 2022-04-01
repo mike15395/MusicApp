@@ -11,7 +11,7 @@
     flex-direction: column;
     width: 100px;
     height: 150px;
-    background-color: rgba(238, 136, 136, 0.863);
+    background-color: rgba(235, 192, 192, 0.822);
     font-size: 30px;
     justify-content: center;
     align-items: center;
@@ -24,7 +24,7 @@
 }
 h1{
 text-align: center;
-background-color: rgb(131, 131, 209);
+background-color: rgb(255, 105, 105);
 
 }
 body{
